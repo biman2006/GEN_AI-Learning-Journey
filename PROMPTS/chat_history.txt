@@ -1,0 +1,2 @@
+Human message: I want to request a refund for my order 12345
+AI message: Your refund request for order has been initiated and you will get your refund in three to five business days.
